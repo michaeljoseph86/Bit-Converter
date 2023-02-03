@@ -1,0 +1,18 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: PCB_Rework.PcbDoc   03-02-2023  11:32:59
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : L1 to L2
+ASCII Plated RoundHoles File : PCB_Rework-Plated.TXT
+ASCII Non-Plated RoundHoles File : PCB_Rework-NonPlated.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             29        PTH        0.00mm (0.00inch)
+T2      1mm (39mil)                                               Round             60        PTH        0.00mm (0.00inch)
+T3      1.1mm (43mil)                                             Round             268       PTH        0.00mm (0.00inch)
+T4      3.2mm (126mil)                                            Round             4         NPTH       0.00mm (0.00inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              361
+
+Total Processing Time (hh:mm:ss) : 00:00:00
