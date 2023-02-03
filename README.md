@@ -16,8 +16,8 @@
 - _Image:_ 3D image of PCB
 - _NC drill_
 - _PCB_
+- _Schematic_
 <!-- - _Pick Place:_ Pick Place file and BOM (LCSC Part # column in BOM must be filled with Part #, JLCPCB Part # if using JLCPCB for manufacturing) -->
-- _Schematic:_ The PDF contains Schematic, PCB view and BOM.
 
 <p>Note: Most subfolders include an additional README that further describes its contents.</p>
 
